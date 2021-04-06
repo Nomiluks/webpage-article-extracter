@@ -1,5 +1,5 @@
 # webpage-article-extracter
-A python API to extract the main article text from web pages independent of the html styles/structure.
+Web Scraping news/stories/blogs articles in Python. This code provides a python API to extract the main article text from web pages independent of the html styles/structure.
 
 ### 1. Machine Setup to run apps (Dockers):
 
